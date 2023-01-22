@@ -38,7 +38,7 @@ app.use(
 app.use(express.json());
 app.use(helmet())
 app.use(cors())
-app.use(xss())
+app.use(xss)
 
 app.get("/", (req, res)=>{
   res.send('<h1>Jobs Application Management API</h1><a href="/api-docs">Documentation</a>')

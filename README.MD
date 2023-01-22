@@ -1,5 +1,5 @@
 # Jobs Application Management API
-### Deployment - https://jobs-application-management-api-production.up.railway.app/
+### Deployment - https://sore-red-chipmunk-tam.cyclic.app/api-docs/
 * A jobs application management REST API built using Node.js and Express.js along with Mongo DB Atlas.
 * Used JWT for handling authentication of the users. 
 * Users can perform Create, Read, Update, and Delete (CRUD) operations on the jobs database.
